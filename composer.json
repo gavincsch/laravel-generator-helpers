@@ -1,5 +1,5 @@
 {
-    "name": "infyomlabs/laravel-generator-helpers",
+    "name": "gavincsch/laravel-generator-helpers",
     "description": "Helper functions for laravel generator packages",
     "type": "library",
     "license": "MIT",
